@@ -1,0 +1,15 @@
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\bin\Debug\net6.0\NestedObjectsLecture.exe
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\bin\Debug\net6.0\NestedObjectsLecture.deps.json
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\bin\Debug\net6.0\NestedObjectsLecture.runtimeconfig.json
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\bin\Debug\net6.0\NestedObjectsLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\bin\Debug\net6.0\NestedObjectsLecture.pdb
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.csproj.AssemblyReference.cache
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.AssemblyInfoInputs.cache
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.AssemblyInfo.cs
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.csproj.CoreCompileInputs.cache
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\refint\NestedObjectsLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.pdb
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\NestedObjectsLecture.genruntimeconfig.cache
+C:\Users\parro\OneDrive\Documents\GitHub\NestedObjects\NestedObjectsLecture\NestedObjectsLecture\obj\Debug\net6.0\ref\NestedObjectsLecture.dll
