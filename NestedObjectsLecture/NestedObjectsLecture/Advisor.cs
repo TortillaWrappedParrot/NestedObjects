@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace NestedObjectsLecture
 {
-    internal class Advisor
+    public class Advisor
     {
+        /// <summary>
+        /// Adviosr's legal full name
+        /// </summary>
+        public string FullName { get; set; }
+        /// <summary>
+        /// Advisors work email
+        /// </summary>
+        public string Email { get; set; }
+        /// <summary>
+        /// Building and room number of the office
+        /// </summary>
+        public string OfficeLocation { get; set; }
     }
 }
